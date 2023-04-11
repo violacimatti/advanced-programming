@@ -1,1 +1,2 @@
 # advanced-programming
+This is a project for the Advanced Programming class of the Genomics course in the University of Bologna. The project was done by Viola Cimatti, Anna Ballestrazzi, Veronica Boccaletti, Giulia Tavacca. The aim of the project was to develop a software to analyze and performe operations on a GFF3 file. In order to access the user's web interface, run the app.py file and then open your local host.
